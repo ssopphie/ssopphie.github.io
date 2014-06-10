@@ -13,7 +13,7 @@ body {
 }
 
 #container {
-    background:url(background.jpg) ;
+    background:url(Background.jpg) ;
      /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
